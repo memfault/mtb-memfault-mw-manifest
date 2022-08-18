@@ -11,9 +11,9 @@ reach out to us at <a href = "mailto: support@memfault.com">support@memfault.com
         <req_capabilities>cat1</req_capabilities>
         <versions>
         <version flow_version="2.0">
-            <num>0.32.1</num>
-            <commit>0.32.1</commit>
-            <desc>0.32.1</desc>
+            <num>0.33.0</num>
+            <commit>0.33.0</commit>
+            <desc>0.33.0</desc>
         </version>
         </versions>
     </middleware>
