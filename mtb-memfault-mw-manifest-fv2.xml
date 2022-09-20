@@ -1,20 +1,20 @@
 <middleware>
-    <middleware>
-        <name>memfault-firmware-sdk</name>
-        <id>memfault-firmware-sdk</id>
-        <uri>https://github.com/memfault/memfault-firmware-sdk</uri>
-        <desc><![CDATA[<a href="https://memfault.com/">Memfault</a> is the first cloud-based observability
+  <middleware>
+    <name>memfault-firmware-sdk</name>
+    <id>memfault-firmware-sdk</id>
+    <uri>https://github.com/memfault/memfault-firmware-sdk</uri>
+    <desc><![CDATA[<a href="https://memfault.com/">Memfault</a> is the first cloud-based observability
 platform for connected devices. <br><br> <a href="https://mflt.io/mtb-integration-guide">See this integration guide </a> for how to use the Memfault
 SDK with the ModusToolbox™ Software suite!<br><br>Have additional questions? Don't hesitate to
 reach out to us at <a href = "mailto: support@memfault.com">support@memfault.com!</a>]]></desc>
-        <category>Middleware</category>
-        <req_capabilities>cat1</req_capabilities>
-        <versions>
-        <version flow_version="2.0">
-            <num>0.33.0</num>
-            <commit>0.33.0</commit>
-            <desc>0.33.0</desc>
-        </version>
-        </versions>
-    </middleware>
+    <category>Middleware</category>
+    <req_capabilities>cat1</req_capabilities>
+    <versions>
+      <version flow_version="2.0">
+        <num>0.33.0</num>
+        <commit>0.33.0</commit>
+        <desc>0.33.0</desc>
+      </version>
+    </versions>
+  </middleware>
 </middleware>
