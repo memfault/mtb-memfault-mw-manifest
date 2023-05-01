@@ -25,6 +25,11 @@ reach out to us at <a href = "mailto: support@memfault.com">support@memfault.com
         <commit>0.37.0</commit>
         <desc>0.37.0</desc>
       </version>
-    </versions>
+      <version flow_version="2.0">
+        <num>0.43.1</num>
+        <commit>0.43.1</commit>
+        <desc>0.43.1</desc>
+      </version>
+     </versions>
   </middleware>
 </middleware>
